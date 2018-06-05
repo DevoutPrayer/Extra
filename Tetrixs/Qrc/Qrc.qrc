@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/piece">
+        <file>Image/piece/box.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>Image/background/background.png</file>
+        <file>Image/background/background01.png</file>
+        <file>Image/background/background02.png</file>
+        <file>Image/background/background03.png</file>
+        <file>Image/background/background04.png</file>
+        <file>Image/background/background05.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>Image/icon/icon.png</file>
+    </qresource>
+    <qresource prefix="/voice">
+        <file>voice/clearRow.mp3</file>
+    </qresource>
+</RCC>
